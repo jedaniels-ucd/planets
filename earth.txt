@@ -1,3 +1,6 @@
 Earth is blue
+<<<<<<< HEAD
 Earth is an oblate spheroid
+=======
+>>>>>>> earth
 It is not flat
